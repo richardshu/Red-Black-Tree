@@ -1,0 +1,37 @@
+.title {
+	-fx-font-size: 50px;
+	-fx-font-weight: bold;
+}
+
+.menu-text {
+	-fx-font-size: 30px;
+}
+
+.view, .pane {
+	-fx-background: linear-gradient(to bottom, #7fffd4, #e0ffff);
+}
+
+.header {
+	-fx-alignment: center;
+}
+
+.status {
+	-fx-font-size: 20px;
+	-fx-font-weight: bold;
+}
+
+.button {
+	-fx-font-size: 20px;
+	-fx-background-color: #ffd700;
+	-fx-background-insets: 5px;
+	-fx-background-color: #00ff74;
+	-fx-background-insets: 5px;
+}
+
+.enter-text {
+	-fx-font-size: 20px;
+}
+
+.vbox, .center {
+	-fx-alignment: center;
+}
